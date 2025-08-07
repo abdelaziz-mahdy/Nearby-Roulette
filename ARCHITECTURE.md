@@ -1,5 +1,6 @@
 # Nearby Roulette Marketing Website - Technical Architecture
 
+
 ## 🏗️ Project Overview
 
 **Product**: Nearby Roulette - Location-based discovery app with roulette-style place selection
