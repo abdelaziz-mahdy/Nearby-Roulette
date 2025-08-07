@@ -334,24 +334,18 @@ body {
 .phone-mockup {
     position: relative;
     width: 280px;
-    height: 560px;
-    background: #1a1a1a;
-    border-radius: 40px;
-    padding: 30px;
+    height: auto;
     margin: 0 auto;
+    border-radius: 20px;
+    overflow: hidden;
     box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
 }
 
-.phone-screen {
+.phone-screenshot {
     width: 100%;
-    height: 100%;
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-    border-radius: 30px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    position: relative;
-    overflow: hidden;
+    height: auto;
+    display: block;
+    border-radius: 20px;
 }
 
 .roulette-wheel {
@@ -877,7 +871,7 @@ body {
     
     .phone-mockup {
         width: 250px;
-        height: 500px;
+        height: auto;
     }
     
     .roulette-wheel {
