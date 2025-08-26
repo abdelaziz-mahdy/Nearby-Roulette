@@ -2,7 +2,7 @@
 class PresentationManager {
     constructor() {
         this.currentSlide = 0;
-        this.totalSlides = 6;
+        this.totalSlides = 4;
         this.slides = document.querySelectorAll('.slide');
         this.navDots = document.querySelectorAll('.nav-dot');
         this.progressFill = document.querySelector('.progress-fill');
