@@ -625,7 +625,7 @@ body {
 .card-features {
     display: flex;
     flex-direction: column;
-    gap: 12px;
+    gap: 22px;
     margin-bottom: 25px;
 }
 
